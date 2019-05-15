@@ -1,0 +1,7 @@
+c:\users\pjose\source\repos\projecto\projecto\bin\Debug\projecto.exe.config
+c:\users\pjose\source\repos\projecto\projecto\bin\Debug\projecto.exe
+c:\users\pjose\source\repos\projecto\projecto\bin\Debug\projecto.pdb
+c:\users\pjose\source\repos\projecto\projecto\obj\Debug\projecto.csprojAssemblyReference.cache
+c:\users\pjose\source\repos\projecto\projecto\obj\Debug\projecto.csproj.CoreCompileInputs.cache
+c:\users\pjose\source\repos\projecto\projecto\obj\Debug\projecto.exe
+c:\users\pjose\source\repos\projecto\projecto\obj\Debug\projecto.pdb
